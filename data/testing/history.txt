@@ -1,0 +1,77 @@
+    1  cd
+    2  ls
+    3  mkdir testing
+    4  ls
+    5  rm testing/
+    6  rm -r testing/
+    7  ls
+    8  cd python-novice-gapminder-data/data/
+    9  ls
+   10  rm -r testing/
+   11  cd python-novice-gapminder-data/data/
+   12  rm -r testing/
+   13  sudo
+   14  sudo rm -r testing/
+   15  ls
+   16  mkdir_ testing
+   17  mkdir testing
+   18  sudo mkdir testing
+   19  ls
+   20  rm -r testing
+   21  sudo rm -r testing
+   22  ls
+   23  mkdir testing
+   24  sudo mkdir testing
+   25  cd testing/
+   26  touch empty
+   27  sudo touch empty
+   28  ls -lh
+   29  rn empty full
+   30  cd ..
+   31  touch test_folder
+   32  sudo touch test_folder
+   33  mv file gapminder_all.csv testing
+   34  sudo mv file gapminder_all.csv testing
+   35  testing
+   36  ls
+   37  sudo mv test_folder gapminder_all.csv testing
+   38  sudo mv test_folder gapminder_all.csv\:Zone.Identifierv testing
+   39  ls
+   40  cd testing/
+   41  ls
+   42  mv test_folder test_folder.txt
+   43  sudo mv test_folder test_folder.txt
+   44  ls
+   45  ls -lh
+   46  sudo rm empty
+   47  ls
+   48  nano test_folder.exe
+   49  cd python-novice-gapminder-data/data/testing/
+   50  ls
+   51  touch teesting
+   52  cd python-novice-gapminder-data/data/testing/
+   53  ls -lh
+   54  nano test_folder.txt 
+   55  sudo nano test_folder.txt 
+   56  ls
+   57  sudo rm test_folder.txt 
+   58  ls
+   59  history
+   60  history > history1121.txt
+   61  sudo history > history1121.txt
+   62  sudo histoy/history.txt
+   63  ls
+   64  sudo history > history.txt
+   65  touch history.txt
+   66  sudo touch history.txt
+   67  ls
+   68  sudo history >> history.txt
+   69  cd python-novice-gapminder-data/data/testing/
+   70  sudo history >> history.txt
+   71  sudo history > history.txt
+   72  whoami
+   73  sudo chown lucila history
+   74  ls
+   75  sudo chown lucila history.txt
+   76  ls
+   77  history > history.txt

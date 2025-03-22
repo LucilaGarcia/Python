@@ -1,0 +1,1 @@
+Testing how to write in this file with nano. It's pretty nice I think. The SHELL is confusing but I'm sure I will understand this soon enough!
