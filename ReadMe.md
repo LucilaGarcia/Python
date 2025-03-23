@@ -23,3 +23,5 @@ Python tomorrow
 -gapminder_gdp_oceania.csv
 -gapminder_gdp_oceania.csv:Zone.Identifier
 -testing
+
+This is just me showing Aidan what I learned today hehe.
